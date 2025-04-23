@@ -50,5 +50,4 @@ python finalproject.py
 - Click **Generate** to produce the truth table.
 - Use toolbar buttons to check for tautologies, contradictions, display DNF, CNF, or show the K-Map (for 2-variable formulas).
 
-Enjoy exploring propositional logic!
 

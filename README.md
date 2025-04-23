@@ -26,7 +26,7 @@ April 22, 2025
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/truth-table-generator-plus.git
+   git clone https://github.com/yourusername/Computability-and-Logic-Final.git
    cd truth-table-generator-plus
    ```
 

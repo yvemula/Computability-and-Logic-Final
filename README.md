@@ -43,7 +43,7 @@ python3 finalproject.py
 On Windows:
 
 ```bash
-python finalproject.py
+python3 finalproject.py
 ```
 
 - Enter a propositional logic formula (e.g., `A AND B -> C`) in the input field.

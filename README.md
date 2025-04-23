@@ -37,13 +37,13 @@ April 22, 2025
 Run the application with:
 
 ```bash
-python3 truth_table_generator_plus.py
+python3 finalproject.py
 ```
 
 On Windows:
 
 ```bash
-python truth_table_generator_plus.py
+python finalproject.py
 ```
 
 - Enter a propositional logic formula (e.g., `A AND B -> C`) in the input field.
